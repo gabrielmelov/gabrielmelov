@@ -4,8 +4,8 @@
 - 🌱 Estudando React, Node e TypeScript
 <div>
   <a href="https://github.com/gabrielmelov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmelov&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelov&layout=compact&langs_count=7&theme=cobalt">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmelov&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true">
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmelov&layout=compact&langs_count=7&theme=cobalt">
 </div>
 
 <div>
