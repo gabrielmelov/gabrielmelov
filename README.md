@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Melo!
 - 🔭 Atuando na área de Desenvolvimento Front-End
-- 🌱 Atualmente aprendendo TypeScript, NextJS, NodeJS e PostgreSQL
+- 🌱 Aprendendo TypeScript, NextJS, NodeJS e PostgreSQL
 
 <div>
   <a href="https://github.com/gabrielmelov">
