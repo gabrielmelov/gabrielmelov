@@ -1,7 +1,7 @@
-# Hi, i am the Gabriel Melo!
-- 🔭 Working as FullStack Developer with focus in Front-End.
-- 📚 I'm currently learning Next, React Native, Fastify, MongoDB.
-- 🎯 Goals: Change the world.
+# Olá, me chamo João Gabriel.
+- 🎓 Graduando como bacharel em Engenharia de Computação na Universidade Federal do Ceará.
+- 🔭 Trabalho como desenvolvedor fullstack com foco em Front-End.
+- 🎯 Ser o melhor onde e no que faço.
 ##
 <!-- <a href="https://github.com/joaogmelov"> -->
 <div>
@@ -17,7 +17,6 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />    
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /> 
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 </div>
 
@@ -27,4 +26,4 @@
   <a href="https://www.linkedin.com/in/gabriel-melov/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:gabrielmelovsc@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-[Snake animation](https://github.com/joaogmelov/gabrielmelov/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/joaogmelov/joaogmelov/blob/output/github-contribution-grid-snake.svg)
